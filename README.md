@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Justin. I'm a UQ undergrad training in computer science and interested in all things Python and GIS.
+My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things Python and GIS.
 
 - 🔭 I’m currently working on a 2D Side Scroller
 - 🌱 I’m currently learning HTML
