@@ -2,7 +2,7 @@
 
 My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things Python and GIS.
 
-- 🔭 I’m currently working on a 2D Side Scroller
+- 🔭 I’m currently working on various projects (website, chess engine)
 - 🌱 I’m currently learning HTML
 
 # 💻 Tech Stack:
