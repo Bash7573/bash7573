@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things Python and GIS.
 
