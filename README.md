@@ -1,6 +1,6 @@
 ## Hello welcome to my profile! 👋
 
-My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things Programming and GIS.
+My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things Programming, CyberSec and GIS.
 
 - 🔭 I’m currently working on a portfolio website
 - 🌱 I’m currently learning ...
