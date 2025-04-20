@@ -1,6 +1,6 @@
 ## Hello welcome to my profile! 👋
 
-My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things involving GIS and python.
+My name is Justin. I'm a UQ undergraduate studying B. Computer Science and I am interested in all things GIS and Python.
 
 - 🔭 I’m currently working on a Discord Bot
 - 🌱 I’m currently learning JavaScript
